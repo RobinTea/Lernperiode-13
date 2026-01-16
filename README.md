@@ -35,7 +35,8 @@ Ich habe ein Modell in [Blender](https://www.blender.org/) erstellt und in einer
 - [x] Interaktive Komponente (wie Button und Navbar)
 - [ ] Farben und Mini-Projekt Deployen
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/00c364fb-fc23-4d88-b1dc-43ed4088d36c" />
+<img width="400" height="1156" alt="image" src="https://github.com/user-attachments/assets/4f413f98-04d1-46b8-8f61-fdb84a5ba581" />
+
 
 
 ## 23.01
