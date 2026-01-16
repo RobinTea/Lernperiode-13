@@ -30,10 +30,13 @@ Ich habe ein Modell in [Blender](https://www.blender.org/) erstellt und in einer
 
 ## 16.01
 
-- [ ] setting up CSS Framework [Tailwind](https://tailwindcss.com/)
-- [ ] Mit Komponente ein Basic Layout bauen (Header, Body und Footer) 
-- [ ] Interaktive Komponente (wie Button und Navbar)
+- [x] setting up CSS Framework [Tailwind](https://tailwindcss.com/)
+- [x] Mit Komponente ein Basic Layout bauen (Header, Body und Footer) 
+- [x] Interaktive Komponente (wie Button und Navbar)
 - [ ] Farben und Mini-Projekt Deployen
+
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/00c364fb-fc23-4d88-b1dc-43ed4088d36c" />
+
 
 ## 23.01
 
