@@ -1,6 +1,19 @@
 # Lernperiode-13
 09.01.26 - 30.01.26
 
+## Wahl der Technologie
+
+Ziel ist Moderne, schnelle und Visuell Ansprechende Webseiten erstellen zu können. 
+
+**Three.js**
+Eine JavaScript Libary für 3D Modelle. Da ich schon Erfahrung mit 3D Modellen habe, wollte ich dies mit Informatik verbinden.
+
+**Tailwind css**
+Eine CSS Framework dessen Ruf vorrausläuft. Einführung für weitere Technologien wie React und Angular. Ausgewählt da immer mehr Unternehmen ihre Technologie optimieren und modernisieren.
+
+**Bootstrap**
+Beginner friendly und Komponenten Baseirt. Eine weitere CSS Lösung als alternative für Tailwind. 
+
 ## 09.01
 Three.js
 - [x] Installationen und Umegbung aufsetzen (https://threejs.org/manual/#en/installation)
@@ -17,7 +30,7 @@ Ich habe ein Modell in [Blender](https://www.blender.org/) erstellt und in einer
 
 ## 16.01
 
-- [ ] setting up CSS Framework Tailwind
+- [ ] setting up CSS Framework [Tailwind](https://tailwindcss.com/)
 - [ ] 
 - [ ] 
 - [ ] 
