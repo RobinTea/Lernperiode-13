@@ -16,7 +16,7 @@ Beginner friendly und Komponenten Baseirt. Eine weitere CSS Lösung als alternat
 
 ## 09.01
 Three.js
-- [x] Installationen und Umegbung aufsetzen (https://threejs.org/manual/#en/installation)
+- [x] Installationen und Umegbung [aufsetzen](https://threejs.org/manual/#en/installation)
 - [x] Eigenes 3D Modell in einer Webseite einfügen
 
 
@@ -31,6 +31,17 @@ Ich habe ein Modell in [Blender](https://www.blender.org/) erstellt und in einer
 ## 16.01
 
 - [ ] setting up CSS Framework [Tailwind](https://tailwindcss.com/)
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Mit Komponente ein Basic Layout bauen (Header, Body und Footer) 
+- [ ] Interaktive Komponente (wie Button und Navbar)
+- [ ] Farben und Mini-Projekt Deployen
+
+## 23.01
+
+- [ ] Setup und docs lesen über Komponente und Grids
+- [ ] erstes Layout erstellen (Header, Body und Footer) und responsiv machen
+- [ ] UI-Bausteine (wie Buttons
+- [ ] JS wie Navbar-Collaps und Deployen
+
+
+
+
