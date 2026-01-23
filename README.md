@@ -47,5 +47,11 @@ Ich habe ein Modell in [Blender](https://www.blender.org/) erstellt und in einer
 - [ ] JS wie Navbar-Collaps und Deployen
 
 
+## 31.01
+
+- [ ] tutorial 1
+- [ ] tutorial 2
+- [ ] website for tutorials (menu to choose)
+- [ ] deploy
 
 
