@@ -41,12 +41,12 @@ Ich habe ein Modell in [Blender](https://www.blender.org/) erstellt und in einer
 
 ## 25.01
 
-- [x] Setup und docs lesen über Komponente und Grids
+- [x] Setup und docs lesen über Komponente und Grids von [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/download/)
 - [x] erstes Layout erstellen (Header, Body und Footer) und responsiv machen
 - [x] UI-Bausteine (wie Buttons)
 - [ ] JS wie Navbar-Collaps und Deployen
 
-Ich versuchte mein Tailwind Projekt in Bootstrap nachzustellen, bemerkte aber, dass es kein hover gibt. Nachdem ich mit beiden Technologien gearbeitet habe scheint mir Tailwind einfacher.
+Ich versuchte mein Tailwind Projekt in [Bootstrap](https://getbootstrap.com/) nachzustellen, bemerkte aber, dass es kein hover gibt. Nachdem ich mit beiden Technologien gearbeitet habe scheint mir Tailwind einfacher.
 
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/7bec34b8-9e77-42af-9c30-e754c635f732" />
 
