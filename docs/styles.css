@@ -404,24 +404,25 @@ nav {
     width: 3px;
     height: 50px;
     /*text-decoration: underline ;*/
-    background: var(--text);
+    background: var(--accent);
     transition: width 0.5s ease-in;
     z-index: -1;
 }
 
 .project-link:hover::after {
     width: 320%;
+    background: var(--tech-text);
 }
 
 .project-link:hover {
-    color: var(--accent);
+    color: var(--text);
 }
 
 .tutorial-link {
     margin-top: 1.5rem;
     margin-left: 11rem;
     align-items: right;
-    color: var(--card-text);
+    color: var(--tech-text);
     font-weight: 400;
     font-size: 0.75rem;
     text-decoration: none;
