@@ -275,7 +275,7 @@ nav {
 
 
 .project-image {
-    height: 16rem;
+    height: 17rem;
     /*background: linear-gradient(135deg, var(--primary-text) 0%, var(--purple) 100%);*/
     position: relative;
     overflow: hidden;
@@ -399,13 +399,13 @@ nav {
 .project-link::after {
     content: '';
     position:absolute;
-    bottom: 7px;
+    bottom: 3spx;
     left: -5px;
     width: 3px;
-    height: 2rem;
+    height: 50px;
     /*text-decoration: underline ;*/
     background: var(--text);
-    transition: width 1s ease-in;
+    transition: width 0.5s ease-in;
     z-index: -1;
 }
 
