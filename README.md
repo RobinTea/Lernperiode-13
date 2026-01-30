@@ -56,7 +56,9 @@ Ich versuchte mein Tailwind Projekt in [Bootstrap](https://getbootstrap.com/) na
 
 - [ ] tutorial 1
 - [ ] tutorial 2
-- [ ] website for tutorials (menu to choose)
-- [ ] deploy
+- [x] website for tutorials (menu to choose)
+- [x] deploy
+
+Ich gab meine Idee der KI und benutzte es dann als template, veränderte es nach meinem Geschmack.
 
 
