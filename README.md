@@ -35,7 +35,7 @@ Ich habe ein Modell in [Blender](https://www.blender.org/) erstellt und in einer
 - [x] Interaktive Komponente (wie Button und Navbar)
 - [x] Farben und Mini-Projekt Deployen
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/4f413f98-04d1-46b8-8f61-fdb84a5ba581" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/e2e46e89-8b96-4065-ba13-db4543602543" />
 
 
 
@@ -60,6 +60,9 @@ Ich versuchte mein Tailwind Projekt in [Bootstrap](https://getbootstrap.com/) na
 - [x] deploy
 
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/3d81d2ac-ec4e-4837-8c57-cb27affe06cc" />
+
+
+
 
 
 Ich gab meine Idee der KI und benutzte es dann als template, veränderte es nach meinem Geschmack.
