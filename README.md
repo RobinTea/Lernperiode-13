@@ -59,6 +59,9 @@ Ich versuchte mein Tailwind Projekt in [Bootstrap](https://getbootstrap.com/) na
 - [x] website for tutorials (menu to choose)
 - [x] deploy
 
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/3d81d2ac-ec4e-4837-8c57-cb27affe06cc" />
+
+
 Ich gab meine Idee der KI und benutzte es dann als template, veränderte es nach meinem Geschmack.
 
 
