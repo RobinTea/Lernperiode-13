@@ -362,6 +362,12 @@ nav {
     line-height: 1.7;
     margin-bottom: 1.5rem;
     letter-spacing: 0.03em;
+    text-decoration: none;
+}
+
+.project-description a{
+    text-decoration: underline;
+    color: var(--card-text);
 }
 
 .project-meta {
