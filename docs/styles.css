@@ -273,6 +273,9 @@ nav {
     border-color: var(--accent);
 }
 
+.project-card:hover .project-image{
+    filter: grayscale(0%);
+}
 
 .project-image {
     height: 17rem;
@@ -283,9 +286,6 @@ nav {
     transition: filter 0.3s;
 }
 
-.project-image:hover {
-    filter: grayscale(0%);
-}
 
 /*
 .project-card:nth-child(2n) .project-image {
